@@ -1,4 +1,4 @@
-# disentanglement-metrics
+# Disentanglement Metrics
 
 A list of different metrics proposed in literature for quantifying disentanglement. I will write about each metric in detail (and possibly implement them) some day but that day is not today.
 
@@ -9,6 +9,7 @@ A list of different metrics proposed in literature for quantifying disentangleme
 3. BetaTCVAE (Chen et. al.)[3]
 
 
+### References
 
 [1] Higgins, I., Matthey, L., Pal, A., Burgess, C., Glorot, X., Botvinick, M., Mohamed, S., and Lerchner, A. _BetaVAE: Learning basic visual concepts with a constrained variational framework_. 2017.  
 [2] Kim, H., and Mnih, A. _Disentangling by Factorising_. 2018.  
